@@ -1,0 +1,27 @@
+run
+1
+runMain Distance
+run
+runMain Distance
+runMain Factorial
+runMain Factorozation
+runMain Factorization
+Seq(1, 2, 3)
+scala> Seq(1, 2, 3)
+:quit
+sbt console
+:quit
+runMain Factorization
+sbt console
+:quit;
+runMain Factorization
+exit
+runMain Euclid
+runMain Euclid.greatestCommonDivisor(24, 36)
+Euclid.greatestCommonDivisor(24, 36)
+exit
+run
+Euclid.greatestCommonDivisor(36, 24)
+exit
+runMain SimpleSearch
+exit
