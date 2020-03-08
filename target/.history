@@ -25,3 +25,7 @@ Euclid.greatestCommonDivisor(36, 24)
 exit
 runMain SimpleSearch
 exit
+runMain SimpleSearch
+runMain RegexSearch
+runMain PartialSumDFS
+runMain PartialSumBit0p

@@ -1,7 +1,27 @@
 object SimpleSearch extends App {
   val text = "カワカドカドカドドワンゴカドカドンゴドワドワンゴドワカワカドンゴドワ".toSeq
   val pattern = "ドワンゴ".toSeq
-  val matchIndex = Seq()
+
+  val matchIndex = search(text, pattern)
+
+  def search(text: Seq[Char], pattern: Seq[Char]): Seq[Int] = {
+    var matchIndex = Seq[Int]()
+    for (i <- 0 to text.length - 1) {
+      val partText = text.slice(i, i + pattern.length)
+      println(partText)
+      if (isMatch(partText, pattern)) matchIndex = matchIndex :+ i
+    }
+    matchIndex
+  }
+
+  def isMatch(textPart: Seq[Char], pattern: Seq[Char]): Boolean = {
+    var isMatch = true
+    for (i <- 0 to pattern.length - 1) {
+      if (textPart.length < pattern.length || textPart(i) != pattern(i))
+        isMatch = false
+    }
+    isMatch
+  }
 
   println(s"出現場所: ${matchIndex}")
 }

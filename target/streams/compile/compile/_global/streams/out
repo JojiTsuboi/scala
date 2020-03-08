@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/George/workspace/scala-study/Euclid.scala:10:3: Missing closing brace `}' assumed here[0m
-[0m[[0m[31merror[0m] [0m[0m  }[0m
-[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/George/workspace/scala-study/PartialSumBit0p.scala:2:11: not found: value Se1[0m
+[0m[[0m[31merror[0m] [0m[0m  val a = Se1(1, 10, 49, 3, 8, 13, 7, 23, 60, -500, 42, 599, 45, -23, 1, 10, 49,[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

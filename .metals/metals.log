@@ -345,3 +345,224 @@ Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range:
 
 WARN  no build target for: /Users/George/workspace/scala-study/SimpleSearch.scala
 INFO  skipping build import with status 'Requested'
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 183, 183, 196)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 183, 183, 189)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 183, 183, 190)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 183, 183, 191)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[Char]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 183, 183, 192)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[Char]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 183, 183, 192)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[Char]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 183, 183, 192)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 203, 203, 216)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 203, 203, 209)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 203, 203, 210)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 203, 203, 211)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[Char]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 203, 203, 212)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[Char]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 203, 203, 212)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[Char]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 203, 203, 212)
+WARN  no build target for: /Users/George/workspace/scala-study/SimpleSearch.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/SimpleSearch.scala
+INFO  skipping build import with status 'Requested'
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 422, 422, 435)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 422, 422, 428)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 422, 422, 430)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[Char]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 422, 422, 431)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[Char]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 422, 422, 431)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[Char]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 422, 422, 431)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 442, 442, 455)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 442, 442, 448)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 442, 442, 449)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 442, 442, 450)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[Char]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 442, 442, 451)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[Char]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 442, 442, 451)
+something's wrong: no file:///Users/George/workspace/scala-study/SimpleSearch.scala in Seq[Char]RangePosition(file:///Users/George/workspace/scala-study/SimpleSearch.scala, 442, 442, 451)
+ERROR scalafmt: /Users/George/workspace/scala-study/SimpleSearch.scala:12: error: illegal start of simple expression
+    }
+    ^
+WARN  no build target for: /Users/George/workspace/scala-study/SimpleSearch.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/SimpleSearch.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/SimpleSearch.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/SimpleSearch.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/SimpleSearch.scala
+INFO  skipping build import with status 'Requested'
+ERROR scalafmt: /Users/George/workspace/scala-study/SimpleSearch.scala:12: error: illegal start of simple expression
++      if (isMatch(partText, pattern)) matchIndexes = matchIndexes :+ i
+       ^
+WARN  no build target for: /Users/George/workspace/scala-study/SimpleSearch.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/SimpleSearch.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/SimpleSearch.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/SimpleSearch.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/SimpleSearch.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/SimpleSearch.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/RegexSearch.scala
+3月 07, 2020 3:30:10 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:47)
+	at java.base/java.lang.String.charAt(String.java:693)
+	at scala.collection.immutable.StringOps$.apply$extension(StringOps.scala:41)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.lastIndexBetween(MetalsEnrichments.scala:411)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.pipeInScope(MultilineStringFormattingProvider.scala:86)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.$anonfun$withToken$1(MultilineStringFormattingProvider.scala:131)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+3月 07, 2020 3:31:40 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 5361
+WARN  no build target for: /Users/George/workspace/scala-study/RegexSearch.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/RegexSearch.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/RegexSearch.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/PartialSumDFS.scala
+3月 07, 2020 4:46:06 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:47)
+	at java.base/java.lang.String.charAt(String.java:693)
+	at scala.collection.immutable.StringOps$.apply$extension(StringOps.scala:41)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.lastIndexBetween(MetalsEnrichments.scala:411)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.pipeInScope(MultilineStringFormattingProvider.scala:86)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.$anonfun$withToken$1(MultilineStringFormattingProvider.scala:131)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+3月 07, 2020 4:46:10 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:47)
+	at java.base/java.lang.String.charAt(String.java:693)
+	at scala.collection.immutable.StringOps$.apply$extension(StringOps.scala:41)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.lastIndexBetween(MetalsEnrichments.scala:411)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.pipeInScope(MultilineStringFormattingProvider.scala:86)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.$anonfun$withToken$1(MultilineStringFormattingProvider.scala:131)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+WARN  no build target for: /Users/George/workspace/scala-study/PartialSumDFS.scala
+INFO  skipping build import with status 'Requested'
+something's wrong: no file:///Users/George/workspace/scala-study/PartialSumDFS.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/PartialSumDFS.scala, 138, 138, 151)
+something's wrong: no file:///Users/George/workspace/scala-study/PartialSumDFS.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/PartialSumDFS.scala, 138, 138, 144)
+something's wrong: no file:///Users/George/workspace/scala-study/PartialSumDFS.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/PartialSumDFS.scala, 138, 138, 145)
+something's wrong: no file:///Users/George/workspace/scala-study/PartialSumDFS.scala in Seq[Int]RangePosition(file:///Users/George/workspace/scala-study/PartialSumDFS.scala, 138, 138, 146)
+something's wrong: no file:///Users/George/workspace/scala-study/PartialSumDFS.scala in Seq[Int]RangePosition(file:///Users/George/workspace/scala-study/PartialSumDFS.scala, 138, 138, 146)
+something's wrong: no file:///Users/George/workspace/scala-study/PartialSumDFS.scala in Seq[Int]RangePosition(file:///Users/George/workspace/scala-study/PartialSumDFS.scala, 138, 138, 146)
+WARN  no build target for: /Users/George/workspace/scala-study/PartialSumDFS.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/PartialSumDFS.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/PartialSumDFS.scala
+INFO  skipping build import with status 'Requested'
+ERROR scalafmt: /Users/George/workspace/scala-study/PartialSumDFS.scala:13: error: ; expected but ) found
+    isMatchAndResult(index + 1, partial :+ a(index)))
+                                                    ^
+WARN  no build target for: /Users/George/workspace/scala-study/PartialSumDFS.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/PartialSumDFS.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/PartialSumBit0p.scala
+3月 07, 2020 5:33:31 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+重大: Internal error: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+java.util.concurrent.CompletionException: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:331)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:346)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:704)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:506)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2088)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:38)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:36)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:47)
+	at java.base/java.lang.String.charAt(String.java:693)
+	at scala.collection.immutable.StringOps$.apply$extension(StringOps.scala:41)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.lastIndexBetween(MetalsEnrichments.scala:411)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.pipeInScope(MultilineStringFormattingProvider.scala:86)
+	at scala.meta.internal.metals.MultilineStringFormattingProvider.$anonfun$withToken$1(MultilineStringFormattingProvider.scala:131)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	... 4 more
+
+3月 07, 2020 5:33:41 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 7133
+WARN  no build target for: /Users/George/workspace/scala-study/PartialSumBit0p.scala
+INFO  skipping build import with status 'Requested'
+something's wrong: no file:///Users/George/workspace/scala-study/PartialSumBit0p.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/PartialSumBit0p.scala, 560, 560, 573)
+something's wrong: no file:///Users/George/workspace/scala-study/PartialSumBit0p.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/PartialSumBit0p.scala, 560, 560, 566)
+something's wrong: no file:///Users/George/workspace/scala-study/PartialSumBit0p.scala in Seq[<error>]RangePosition(file:///Users/George/workspace/scala-study/PartialSumBit0p.scala, 560, 560, 567)
+something's wrong: no file:///Users/George/workspace/scala-study/PartialSumBit0p.scala in Seq[Int]RangePosition(file:///Users/George/workspace/scala-study/PartialSumBit0p.scala, 560, 560, 568)
+something's wrong: no file:///Users/George/workspace/scala-study/PartialSumBit0p.scala in Seq[Int]RangePosition(file:///Users/George/workspace/scala-study/PartialSumBit0p.scala, 560, 560, 568)
+something's wrong: no file:///Users/George/workspace/scala-study/PartialSumBit0p.scala in Seq[Int]RangePosition(file:///Users/George/workspace/scala-study/PartialSumBit0p.scala, 560, 560, 568)
+WARN  no build target for: /Users/George/workspace/scala-study/PartialSumBit0p.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: /Users/George/workspace/scala-study/PartialSumBit0p.scala
+INFO  skipping build import with status 'Requested'
